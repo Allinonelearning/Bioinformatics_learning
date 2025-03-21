@@ -1,0 +1,22 @@
+# Python learning
+Strings manipulation
+
+# Bioinformatic term
+GFF/GFT format   genomic annotation
+
+# Genome Annotation
+Reading this article (https://doi.org/10.1093/gbe/evae253), summarying genome annotation pipline in this article
+
+*pipline* https://github.com/cnag-aat/Annotation_AAT
+
+
+# Listening the introduction of EVO2
+link(https://www.bilibili.com/video/BV1NU93YEEGK/?spm_id_from=333.1365.top_right_bar_window_history.content.click&vd_source=e16305420f78ea91f13453b16867152a)
+
+EVO2 is not perfect model.
+
+
+
+
+
+
